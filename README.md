@@ -7,5 +7,5 @@ This package allows to get a difference between two json / yaml files and repres
 
 To install this package from GitHub on your PC enter this command in your terminal: 
 
-    python3 -m pip install --user git+https://github.com/Acemore/python-project-lvl2
+    python3 -m pip install --user git+https://github.com/ASOsipov7493/python-project-lvl2
 
