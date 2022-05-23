@@ -9,6 +9,3 @@ To install this package from GitHub on your PC enter this command in your termin
 
     python3 -m pip install --user git+https://github.com/Acemore/python-project-lvl2
 
-[![asciicast](https://asciinema.org/a/79rRaQsLm7QxDacVO5tofXd5U.svg)](https://asciinema.org/a/79rRaQsLm7QxDacVO5tofXd5U)
-[![asciicast](https://asciinema.org/a/7EXWgsso8WkDZbpQr1HYdP82R.svg)](https://asciinema.org/a/7EXWgsso8WkDZbpQr1HYdP82R)
-[![asciicast](https://asciinema.org/a/ZzyEzZrytJK6CZtMFTNGSM7Qn.svg)](https://asciinema.org/a/ZzyEzZrytJK6CZtMFTNGSM7Qn)
