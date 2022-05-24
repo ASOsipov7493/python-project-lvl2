@@ -3,25 +3,21 @@ name = "hexlet-code"
 version = "0.1.0"
 description = ""
 authors = ["Andrei Osipov <stokesqwerty@mail.ru>"]
-repository = "https://github.com/ASOsipov7493/python-project-lvl2"
-classifiers = [
-  "Programming Language :: Python :: 3",
-  "Operating System :: POSIX :: Linux"
-]
 packages = [
-    { include = "gendiff" },
+  { include = "gendiff" },
 ]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+pytest = "^6.0.2"
+tomli = "1.2.3"
 PyYAML = "^6.0"
 
 [tool.poetry.scripts]
-gendiff = "gendiff.scripts.gendiff:main"
+gendiff = 'gendiff.scripts.gendiff:main'
 
 [tool.poetry.dev-dependencies]
 flake8 = "^4.0.1"
-pytest = "^6.2.5"
 pytest-cov = "^3.0.0"
 
 [build-system]

@@ -1,5 +1,7 @@
+__pycache__/
 .venv/
-*.pyc
 dist/
 .coverage
 coverage.xml
+.pytest_cache/
+.vim
